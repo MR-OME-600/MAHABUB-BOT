@@ -1,7 +1,7 @@
 {
-  "name": "Priyansh",
+  "name": "Mahabub",
   "version": "10.1.1",
-  "description": "A simple Facebook Messenger Bot made by 𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭.",
+  "description": "A simple Facebook Messenger Bot made by MR᭄﹅ MAHABUB﹅ メꪜ.",
   "main": "Mahabub.js",
   "engines": {
       "node": "20.x",
@@ -19,14 +19,14 @@
   "keywords": [
       "bot",
       "facebook",
-      "projectpriyansh",
+      "MAHABUB BOT",
       "messenger",
       "javasvript",
-      "priyanshu",
+      "Mahabub",
       "prince",
       "mental"
   ],
-  "author": "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+  "author": "MR᭄﹅ MAHABUB﹅ メꪜ",
   "license": "GPL-3.0",
   "bugs": {
       "url": "https://github.com/Priyansh-11/Priyansh-bot/issues"

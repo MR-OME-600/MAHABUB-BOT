@@ -1,6 +1,6 @@
-# Priyansh Bot v2
+# MAHABUB BOT 
 
-Welcome to **Priyansh Bot v2**! This is a powerful and customizable bot built for automating various tasks on Facebook Messenger.
+Welcome to **MAHABUB BOT**! This is a powerful and customizable bot built for automating various tasks on Facebook Messenger.
 
 ## Table of Contents
 
@@ -24,12 +24,12 @@ To install the bot, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Priyansh-11/Priyansh-bot-v2.git
+    git clone COMING SOON...
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd Priyansh-bot-v2
+    cd MAHABUB BOT 
     ```
 
 3. **Install the dependencies**:

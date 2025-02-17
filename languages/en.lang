@@ -22,16 +22,16 @@ Mahabub.foundPathAppstate=Found appstate file now logging in...
 Mahabub.notFoundPathAppstate=Error can't find appstate file maybe file is malformed!
 Mahabub.checkListGban=Checking global ban list...
 Mahabub.banDevice=Your device have been banned from Priyanshproject, please contact to facebook https://fb.me/Priyanshu.Rajput.official to know more information or asking for unban key, if you already have unban key, please fill it below.
-priyansh.keyNotSameFormat=Wrong format, code must contain 6 number.
-priyansh.codeInputExpired=Your code is wrong or out of date.
-priyansh.unbanDeviceSuccess=Your device are unban now, please restart to use.
-priyansh.userBanned=You had been banned from Priyanshproject when %1 with reason: %2. Please contact to facebook https://fb.me/Priyanshu.Rajput.official to have more information!
-priyansh.finishCheckListGban=Checked global ban list
-priyansh.handleListenError=handleListene has occurred some unexpected errorr, error : %1
-priyansh.warningSourceCode=DETECTED THAT SOURCE CODE'S STRUCTURE HAD BEEN CHANGED , STOP NOW!
-priyansh.refreshListen=Refreshed handleListener...
-priyansh.successConnectDatabase=Connected to database successfully!
-priyansh.failConnectDatabase=Failed to connect to database, error: %1
+Mahabub.keyNotSameFormat=Wrong format, code must contain 6 number.
+Mahabub.codeInputExpired=Your code is wrong or out of date.
+Mahabub.unbanDeviceSuccess=Your device are unban now, please restart to use.
+Mahabub.userBanned=You had been banned from Priyanshproject when %1 with reason: %2. Please contact to facebook https://fb.me/Priyanshu.Rajput.official to have more information!
+Mahabub.finishCheckListGban=Checked global ban list
+Mahabub.handleListenError=handleListene has occurred some unexpected errorr, error : %1
+Mahabub.warningSourceCode=DETECTED THAT SOURCE CODE'S STRUCTURE HAD BEEN CHANGED , STOP NOW!
+Mahabub.refreshListen=Refreshed handleListener...
+Mahabub.successConnectDatabase=Connected to database successfully!
+Mahabub.failConnectDatabase=Failed to connect to database, error: %1
 
 # includes/listen.js
 

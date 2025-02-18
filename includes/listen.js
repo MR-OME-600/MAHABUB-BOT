@@ -6,12 +6,12 @@ module.exports = function ({ api, models }) {
     const logger = require("../utils/log.js");
     const moment = require('moment-timezone');
     const axios = require("axios");
-    var day = moment.tz("Asia/Kolkata").day();
+    var day = moment.tz("Asia/Dhaka").day();
 
 
     const checkttDataPath = __dirname + '/../Mahabub/commands/checktuongtac/';
     setInterval(async () => {
-        const day_now = moment.tz("Asia/Kolkata").day();
+        const day_now = moment.tz("Asia/Dhaka").day();
         const _ADMINIDs = [...global.config.NDH, ...global.config.ADMINBOT];
       try {
         if (day != day_now) {
@@ -135,7 +135,7 @@ module.exports = function ({ api, models }) {
                     global['data']['commandBanned']['set'](idUsers, dataU['data']['commandBanned']);
             }
             for (const dataC of currencies) global.data.allCurrenciesID.push(String(dataC['userID']));
-            logger.loader(global.getText('listen', 'loadedEnvironmentUser')), logger(global.getText('listen', 'successLoadEnvironment'), '[ Priyansh ]');
+            logger.loader(global.getText('listen', 'loadedEnvironmentUser')), logger(global.getText('listen', 'successLoadEnvironment'), '[ Mahabub ]');
         } catch (error) {
             return logger.loader(global.getText('listen', 'failLoadEnvironment', error), 'error');
         }
@@ -156,7 +156,7 @@ module.exports = function ({ api, models }) {
     //DEFINE DATLICH PATH
     const datlichPath = __dirname + "/../Mahabub/commands/cache/datlich.json";
 
-    //FUNCTION WORKS AS IT'S NAME, CRE: PRIYANSHU
+    //FUNCTION WORKS AS IT'S NAME, CRE: MR᭄﹅ MAHABUB﹅ メꪜ 
     const monthToMSObj = {
         1: 31 * 24 * 60 * 60 * 1000,
         2: 28 * 24 * 60 * 60 * 1000,
